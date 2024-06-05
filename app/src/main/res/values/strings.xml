@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Transactions</string>
+    <string name="sign_in">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome_back">Selamat datang!</string>
+    <string name="don_t_have_an_account_sign_up">Belum punya akun? Register</string>
+    <string name="sign_up">Register</string>
+    <string name="set_up_your_profile_information">Menyiapkan informasi profil anda</string>
+    <string name="name">Nama</string>
+    <string name="content_description">Content Description</string>
+    <string name="rp0_00">Rp0,00</string>
+    <string name="your_balance">Total Saldo</string>
+    <string name="income">Pemasukan</string>
+    <string name="expense">Pengeluaran</string>
+    <string name="transactions">Jurnal Umum</string>
+    <string name="logout">Keluar</string>
+    <string name="menu">Menu</string>
+    <string name="title">Judul</string>
+    <string name="desc">Deskripsi</string>
+    <string name="amount">Jumlah</string>
+    <string name="type">Tipe Jurnal</string>
+    <string name="save">Simpan</string>
+    <string name="take_a_photo">Ambil Foto</string>
+    <string name="photo">Foto</string>
+    <string name="delete">Hapus</string>
+</resources>
